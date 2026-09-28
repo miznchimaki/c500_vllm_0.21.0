@@ -1,0 +1,5 @@
+以下大文件因超出 GitHub 100MB 限制已被忽略上传:
+生成时间: 2026-09-28 12:27:44
+------------------------------------------------
+146M  vllm_flash_attn/_vllm_fa3_C.abi3.so
+182M  vllm_flash_attn/_vllm_fa2_C.abi3.so
